@@ -3,3 +3,4 @@ matplotlib
 seaborn
 pyarrow
 scikit-learn
+follium
