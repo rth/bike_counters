@@ -2,9 +2,9 @@ name: Test ramp kit
 
 on:
     push:
-    branches: [ dev ]
+      branches: [ dev ]
     pull_request:
-    branches: [ master ]
+      branches: [ master ]
 
 jobs:
     test:
